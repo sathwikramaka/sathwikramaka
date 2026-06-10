@@ -41,4 +41,4 @@ Currently in my final year, seeking a 6-month research internship
 ---
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathvik_Ramaka-blue)]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/sathwik-ramaka-1ba40227a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathwik_Ramaka-blue)]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/sathwik-ramaka-1ba40227a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
