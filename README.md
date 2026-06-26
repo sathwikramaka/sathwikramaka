@@ -1,4 +1,4 @@
-# Sathvik Ramaka
+# Sathwik Ramaka
 
 **Remote Sensing · Carbon MRV · Agricultural Earth Observation**
 
