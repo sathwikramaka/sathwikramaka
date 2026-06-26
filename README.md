@@ -26,7 +26,7 @@ Currently in my final year, seeking a 6-month research internship
 ## Featured Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Soil Carbon Mapping — Uttarakhand](#) | Random Forest SOC prediction using GEE covariates. R²=0.44 | GEE, Python, Scikit-Learn |
+| [Soil Carbon Mapping — Uttarakhand](https://github.com/sathwikramaka/soil-carbon-mapping-uttarakhand) | Random Forest SOC prediction using GEE covariates. R²=0.44 | GEE, R, randomForest |
 | [Carbon Stock Estimation — Ludhiana](#) | Grid-based carbon pipeline with web deployment | GEE, PostgreSQL, FastAPI |
 | [Agrivoltaic Optimizer — Jodhpur](#) | MCDA + K-Means spatial suitability analysis | Python, QGIS, GeoPandas |
 
